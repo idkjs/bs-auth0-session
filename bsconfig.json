@@ -2,23 +2,18 @@
   "name": "bs-auth0-session",
   "namespace": true,
   "reason": {
-    "react-jsx": 2
+    "react-jsx": 3
   },
-  "refmt": 3,
   "sources": [
     "src"
   ],
-  "bs-dependencies": [],
-  "refmt": 3,
   "bsc-flags": ["-bs-super-errors"],
   "package-specs": {
     "module": "commonjs",
     "in-source": true
   },
   "bs-dependencies": [
-    "reason-react",
-    "bs-querystringify",
-    "bs-auth0-js"
+    "reason-react"
   ],
   "suffix": ".bs.js"
 }
